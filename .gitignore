@@ -1,0 +1,75 @@
+# .NET Core / .NET 5+ / .NET Framework
+.vs/
+.vscode/
+.idea/
+
+# User-specific files
+.user
+.userosscache
+.suo
+.tmp/
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# User-specific files
+.idea/
+.vscode/
+
+# .NET Core Build Folders
+bin/
+obj/
+
+# VS for Mac
+.vscode/
+.vsconfig
+
+# ASP.NET temporary files
+appsettings.Development.json
+appsettings.Production.json
+appsettings.Staging.json
+
+# Tye
+.tye/
+
+# Microsoft Azure Web App publishing
+publish/
+
+# NuGet Packages
+# Ignore package directories to avoid caching the entire repository
+*.nupkg
+# NuGet v3's global packages folder
+~/.nuget/packages/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# User-specific files
+.idea/
+.vscode/
